@@ -18,3 +18,10 @@
 
 ```
 https://github.com/MrCaste/DoSNet.git
+
+## Requerimientos
+```
+sudo apt update
+sudo apt install dsniff
+```
+**Es necesario ejecutar el programa como sudo**
